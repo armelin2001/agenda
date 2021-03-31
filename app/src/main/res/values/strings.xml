@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">agenda</string>
+    <string name="main_login">Log in</string>
+    <string name="main_button_log_in">Log in</string>
+    <string name="main_button_sign_in"> Sign in</string>
+    <string name="alert_error_campo_vazio">Campos obrigatorios não prenchidos</string>
+    <string name="alert_sucesso_criacao_usuario">Usuario criado com sucesso</string>
+    <string name="alert_erro_campo_errado">Nome ou senha incorretos</string>
+    <string name="button_add_agendamento">ADD</string>
+    <string name="text_name_exercicio">Name</string>
+    <string name="text_adress_exercicio">Adress</string>
+    <string name="text_phone_exercicio">Phone</string>
+    <string name="text_type_exercicio">Type</string>
+    <string-array name="types">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+    </string-array>
+    <string name="campos_nao_prenchidos">Algum campo esta vazio</string>
+</resources>
